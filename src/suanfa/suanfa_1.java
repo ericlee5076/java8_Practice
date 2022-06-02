@@ -18,6 +18,7 @@ public class suanfa_1 {
         else
             System.out.println("第一次修改！");
             System.out.println("hot-fix！");
+            System.out.println("hot-fix second modify！");
             return fun(num - 1) + fun(num - 2);
     }
 }
