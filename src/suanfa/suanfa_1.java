@@ -21,7 +21,7 @@ public class suanfa_1 {
             System.out.println("master second modify！！");
             System.out.println("hot-fix second modify！");
             System.out.println("master third modify！！");
-            System.out.println("master fouth modify！！");
+            System.out.println("master fourth modify！！");
             return fun(num - 1) + fun(num - 2);
     }
 }
