@@ -16,8 +16,7 @@ public class suanfa_1 {
         if(num == 1 || num == 2)
             return 1;
         else
+            System.out.println("第一次修改！");
             return fun(num - 1) + fun(num - 2);
-
-
     }
 }
